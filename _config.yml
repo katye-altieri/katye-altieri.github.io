@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-remote_theme               : "academicpages/academicpages" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+remote_theme             : "academicpages/academicpages" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "A/Prof Katye Altieri"
 title_separator          : "-"
 name                     : &name "Katye Altieri"
