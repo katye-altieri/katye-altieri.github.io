@@ -1,6 +1,24 @@
-name,email,year,degree
-Mishka Rawatlal,RWTMIS001@myuct.ac.za,2026,PhD
-Tiaan Van Niekerk,VNKCHR018@myuct.ac.za,2026,PhD
-Pelonomi Sakwe,SKWPEL002@myuct.ac.za,2026,MSc
-Shaza Qalela,QLLSHA001@myuct.ac.za,2026,MSc
-Ethan Smith,ethansmith@alumni.uct.ac.za,2026,Intern
+name,email,year,degree,status
+Mishka Rawatlal,RWTMIS001@myuct.ac.za,2021-Present,PhD,Current
+Tiaan Van Niekerk,VNKCHR018@myuct.ac.za,2025-Present,PhD,Current
+Pelonomi Sakwe,SKWPEL002@myuct.ac.za,2023-Present,MSc,Current
+Shaza Qalela,QLLSHA001@myuct.ac.za,2025-Present,MSc,Current
+Ethan Smith,ethansmith@alumni.uct.ac.za,2026,Intern,Current
+Jessica Burger,,2023,PhD,Alumni
+Faith February,,2024,PhD,Alumni
+E. Jabulile Leroko,,2025,MSc,Alumni
+Sive Xokashe,,2023,MSc,Alumni
+Kurt Spence,,2022,MSc,Alumni
+Shantelle Smith,,2022,MSc,Alumni
+Mishka Rawatlal,,2020,MSc,Alumni
+Benita Maritz,,2019,Msc,Alumni
+Shaza Qalela,,2023,Hons,Alumni
+Ashleigh Dingwall,,2022,Hons,Alumni
+Pelonomi Sakwe,,2022,Hons,Alumni
+Nadine Ellis,,2021,Hons,Alumni
+Neha Ramsarup,,2021,Hons,Alumni
+Sive Xokashe,,2019,Hons,Alumni
+Kelcey Maewashe,,2019,Hons,Alumni
+Brandon Opie,,2018,Hons,Alumni
+Shantelle Smith,,2017,Hons,Alumni
+Kurt Spence,,2017,Hons,Alumni
