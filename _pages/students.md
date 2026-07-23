@@ -18,7 +18,6 @@ author_profile: true
 ## Alumni
 {% for student in site.data.students %}
 {% if student.status == "Alumni" %}
-- **{{ student.name }}** ({{ student.degree }}, {{ student.year }})  
-  Email: {{ student.email }}
+- **{{ student.name }}** ({{ student.degree }}, {{ student.year }})
 {% endif %}
 {% endfor %}
