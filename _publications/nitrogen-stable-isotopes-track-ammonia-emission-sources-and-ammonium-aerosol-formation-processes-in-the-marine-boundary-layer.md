@@ -6,5 +6,7 @@ date: 2026-01-01
 venue: "Geophysical Research Letters"
 authors: "Altieri, K.E. and Smith, S. and Fawcett, S.E. and Spence, K.A.M. and Mathuri, M.N. and Granger, J."
 doi: "10.1029/2025GL119557"
+url: https://doi.org/10.1029/2025GL119557
+cite_as: "Altieri, K.E. and Smith, S. and Fawcett, S.E. and Spence, K.A.M. and Mathuri, M.N. and Granger, J. (2026). Nitrogen Stable Isotopes Track Ammonia Emission Sources and Ammonium Aerosol Formation Processes in the Marine Boundary Layer. Geophysical Research Letters. doi:10.1029/2025GL119557"
 category: manuscripts
 ---

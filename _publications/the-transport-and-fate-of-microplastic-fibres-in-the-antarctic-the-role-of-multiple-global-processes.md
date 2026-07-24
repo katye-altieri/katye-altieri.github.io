@@ -6,5 +6,7 @@ date: 2022-01-01
 venue: "Frontiers in Marine Science"
 authors: "Cunningham, Eoghan M. and Rico Seijo, Nuria and Altieri, Katye E. and Audh, Riesna R. and Burger, Jessica M. and Bornman, Thomas G. and Fawcett, Sarah and Gwinnett, Claire M. B. and Osborne, Amy O. and Woodall, Lucy C."
 doi: "10.3389/fmars.2022.1056081"
+url: https://doi.org/10.3389/fmars.2022.1056081
+cite_as: "Cunningham, Eoghan M. and Rico Seijo, Nuria and Altieri, Katye E. and Audh, Riesna R. and Burger, Jessica M. and Bornman, Thomas G. and Fawcett, Sarah and Gwinnett, Claire M. B. and Osborne, Amy O. and Woodall, Lucy C. (2022). The transport and fate of microplastic fibres in the Antarctic: The role of multiple global processes. Frontiers in Marine Science. doi:10.3389/fmars.2022.1056081"
 category: manuscripts
 ---

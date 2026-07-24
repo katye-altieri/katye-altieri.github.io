@@ -6,5 +6,7 @@ date: 2012-01-01
 venue: "Atmospheric Chemistry and Physics"
 authors: "Altieri, K.E. and Hastings, M.G. and Peters, A.J. and Sigman, D.M."
 doi: "10.5194/acp-12-3557-2012"
+url: https://doi.org/10.5194/acp-12-3557-2012
+cite_as: "Altieri, K.E. and Hastings, M.G. and Peters, A.J. and Sigman, D.M. (2012). Molecular characterization of water soluble organic nitrogen in marine rainwater by ultra-high resolution electrospray ionization mass spectrometry. Atmospheric Chemistry and Physics. doi:10.5194/acp-12-3557-2012"
 category: manuscripts
 ---

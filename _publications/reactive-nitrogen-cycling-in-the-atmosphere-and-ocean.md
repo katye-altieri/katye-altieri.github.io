@@ -6,5 +6,7 @@ date: 2021-01-01
 venue: "Annual Review of Earth and Planetary Sciences"
 authors: "Altieri, Katye E. and Fawcett, Sarah E. and Hastings, Meredith G."
 doi: "10.1146/annurev-earth-083120-052147"
+url: https://doi.org/10.1146/annurev-earth-083120-052147
+cite_as: "Altieri, Katye E. and Fawcett, Sarah E. and Hastings, Meredith G. (2021). Reactive nitrogen cycling in the atmosphere and ocean. Annual Review of Earth and Planetary Sciences. doi:10.1146/annurev-earth-083120-052147"
 category: manuscripts
 ---

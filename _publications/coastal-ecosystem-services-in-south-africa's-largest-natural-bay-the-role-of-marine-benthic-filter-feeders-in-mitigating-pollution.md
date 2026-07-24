@@ -6,5 +6,7 @@ date: 2022-01-01
 venue: "Ecological Indicators"
 authors: "Puccinelli, Eleonora and Porri, Francesca and Altieri, Katye and Flynn, Raquel and Little, Hazel and Louw, Tayla and Pattrick, Paula and Sparks, Conrad and Tsanwani, Mutshutshu and de Waardt, Sonya and Walker, David and Fawcett, Sarah"
 doi: "10.1016/j.ecolind.2022.108899"
+url: https://doi.org/10.1016/j.ecolind.2022.108899
+cite_as: "Puccinelli, Eleonora and Porri, Francesca and Altieri, Katye and Flynn, Raquel and Little, Hazel and Louw, Tayla and Pattrick, Paula and Sparks, Conrad and Tsanwani, Mutshutshu and de Waardt, Sonya and Walker, David and Fawcett, Sarah (2022). Coastal ecosystem services in South Africa's largest natural bay: The role of marine benthic filter feeders in mitigating pollution. Ecological Indicators. doi:10.1016/j.ecolind.2022.108899"
 category: manuscripts
 ---

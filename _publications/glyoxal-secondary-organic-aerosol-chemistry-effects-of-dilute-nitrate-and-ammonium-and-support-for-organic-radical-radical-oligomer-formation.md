@@ -6,5 +6,7 @@ date: 2013-01-01
 venue: "Environmental Chemistry"
 authors: "Kirkland, Jeffrey R. and Lim, Yong B. and Tan, Yi and Altieri, Katye E. and Turpin, Barbara J."
 doi: "10.1071/EN13074"
+url: https://doi.org/10.1071/EN13074
+cite_as: "Kirkland, Jeffrey R. and Lim, Yong B. and Tan, Yi and Altieri, Katye E. and Turpin, Barbara J. (2013). Glyoxal secondary organic aerosol chemistry: Effects of dilute nitrate and ammonium and support for organic radical-radical oligomer formation. Environmental Chemistry. doi:10.1071/EN13074"
 category: manuscripts
 ---
