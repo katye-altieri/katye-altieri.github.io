@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Oligomers formed through in-cloud methylglyoxal reactions: Chemical composition, properties, and mechanisms investigated by ultra-high resolution FT-ICR mass spectrometry"
 collection: publications
@@ -8,3 +9,14 @@ authors: "Altieri, K.E. and Seitzinger, S.P. and Carlton, A.G. and Turpin, B.J. 
 doi: "10.1016/j.atmosenv.2007.11.015"
 category: manuscripts
 ---
+=======
+---
+title: "Oligomers formed through in-cloud methylglyoxal reactions: Chemical composition, properties, and mechanisms investigated by ultra-high resolution FT-ICR mass spectrometry"
+collection: publications
+permalink: /publication/oligomers-formed-through-in-cloud-methylglyoxal-reactions-chemical-composition-properties-and-mechanisms-investigated-by-ultra-high-resolution-ft-icr-mass-spectrometry
+date: 2008-01-01
+venue: "Atmospheric Environment"
+authors: "Altieri, K.E. and Seitzinger, S.P. and Carlton, A.G. and Turpin, B.J. and Klein, G.C. and Marshall, A.G."
+doi: "10.1016/j.atmosenv.2007.11.015"
+---
+>>>>>>> 81c7e42dee2cc19489d88139ecd618ef85b1604e
