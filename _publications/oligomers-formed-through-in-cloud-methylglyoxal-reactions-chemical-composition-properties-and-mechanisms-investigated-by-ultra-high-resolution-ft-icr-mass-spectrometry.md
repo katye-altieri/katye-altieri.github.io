@@ -6,4 +6,5 @@ date: 2008-01-01
 venue: "Atmospheric Environment"
 authors: "Altieri, K.E. and Seitzinger, S.P. and Carlton, A.G. and Turpin, B.J. and Klein, G.C. and Marshall, A.G."
 doi: "10.1016/j.atmosenv.2007.11.015"
+category: manuscripts
 ---

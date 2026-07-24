@@ -6,4 +6,5 @@ date: 2013-01-01
 venue: "Environmental Chemistry"
 authors: "Kirkland, Jeffrey R. and Lim, Yong B. and Tan, Yi and Altieri, Katye E. and Turpin, Barbara J."
 doi: "10.1071/EN13074"
+category: manuscripts
 ---

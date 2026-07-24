@@ -6,4 +6,5 @@ date: 2026-01-01
 venue: "Journal of Geophysical Research: Biogeosciences"
 authors: "Mirkin, J. and Granger, J. and Flynn, R.F. and West, A.G. and Smith, S. and Mathuri, M.N. and Altieri, K.E. and Fawcett, S.E."
 doi: "10.1029/2025JG009593"
+category: manuscripts
 ---

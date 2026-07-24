@@ -6,4 +6,5 @@ date: 2008-01-01
 venue: "Environmental Science and Technology"
 authors: "Carlton, Annmarie G. and Turpin, Barbara J. and Altieri, Katye E. and Seitzinger, Sybil P. and Mathur, Rohit and Roselle, Shawn J. and Weber, Rodney J."
 doi: "10.1021/es801192n"
+category: manuscripts
 ---

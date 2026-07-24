@@ -6,4 +6,5 @@ date: 2009-01-01
 venue: "Atmospheric Chemistry and Physics"
 authors: "Altieri, K.E. and Turpin, B.J. and Seitzinger, S.P."
 doi: "10.5194/acp-9-2533-2009"
+category: manuscripts
 ---
