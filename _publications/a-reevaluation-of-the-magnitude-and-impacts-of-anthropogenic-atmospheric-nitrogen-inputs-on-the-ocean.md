@@ -1,6 +1,7 @@
 ---
 title: "A reevaluation of the magnitude and impacts of anthropogenic atmospheric nitrogen inputs on the ocean"
 collection: publications
+category: manuscripts
 permalink: /publication/a-reevaluation-of-the-magnitude-and-impacts-of-anthropogenic-atmospheric-nitrogen-inputs-on-the-ocean
 date: 2017-01-01
 venue: "Global Biogeochemical Cycles"
